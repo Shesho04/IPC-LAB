@@ -6,6 +6,7 @@
 #Objetivo: Dado un número entero, como dato, determinar si el mismo es positivo, negativo o cero.
 #Entrada: Número entero.
 #Procesos principales
+#Salida: Determinar si el número es positivo, negativo o cero.
 
 #Solicitar un número entero al usuario
 print("Ejercicio 1")

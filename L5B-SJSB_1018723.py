@@ -6,7 +6,7 @@
 #Objetivo: Realzar un programa que indique el día de la semana correspondiente al número ingresado.
 #Entrada: Número de 1 al 7.
 #Procesos principales
-#Mostrar el día de la semana, en base al número ingresado por el usuario.
+#Salida: Mostrar el día de la semana, en base al número ingresado por el usuario.
 
 #Solicitar al usuario que ingrese un número de día.
 print("Ejercicio 2")
